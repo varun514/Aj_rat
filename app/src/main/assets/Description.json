@@ -1,0 +1,39 @@
+{
+  "Desc": [
+    {
+      "name": "Managing Humans: Biting and Humorous Tales of a Software Engineering Manager",
+      "author": " Michael Lopp",
+      "description": "Managing people is difficult wherever you work, but the tech industry as a whole is pretty bad at it. Tech companies in general lack the experience, tools, texts, and frameworks to do it well. And the handful of books that share tips and tricks of engineering management don t explain how to supervise employees in the face of growth and change."
+    },
+    {
+      "name": " The Robert C. Martin Clean Code Collection (Collection) ",
+      "author": " Robert C. Martin",
+      "description": "Clean Code: A Handbook of Agile Software Craftmanship The Clean Coder: A Code of Conduct for Professional Programmers In Clean Code, legendary software expert Robert C. Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code "
+    },
+    {
+      "name": " Julian Assange - The Unauthorised Autobiography ",
+      "author": "Julian Assange",
+      "description": "In December 2010, Julian Assange signed a contract with Canongate Books to write a book - part memoir, part manifesto - for publication the following year. At the time, Julian said: 'I hope this book will become one of the unifying documents of our generation. In this highly personal work, I explain our global struggle to force a new relationship between the people"
+    },
+    {
+      "name": " The Future of the Internet--And How to Stop It ",
+      "author": "Jonathan L. Zittrain",
+      "description": "This extraordinary book explains the engine that has catapulted the Internet from backwater to ubiquity—and reveals that it is sputtering precisely because of its runaway success. With the unwitting help of its users, the generative Internet is on a path to a lockdown, ending its cycle of innovation—and facilitating unsettling new kinds of control."
+    },
+    {
+      "name": " The Art of Deception: Controlling the Human Element of Security ",
+      "author": " Kevin D. Mitnick",
+      "description": "The world's most infamous hacker offers an insider's view of the low-tech threats to high-tech security Kevin Mitnick's exploits as a cyber-desperado and fugitive form one of the most exhaustive FBI manhunts in history and have spawned dozens of articles, books, films, and documentaries. Since his release from federal prison, in 1998, Mitnick has turned his life around "
+    },
+    {
+      "name": " Systems Engineering and Analysis ",
+      "author": "Benjamin S. Blanchard",
+      "description": "In dedicating this text to those graduating with interdisciplinary masters degrees in systems engineering from their school, Blanchard and Fabrycky (Virginia Polytechnic Institute and U.) signal a field encompassing domains such as: communications, healthcare, manufacturing, and transportation."
+    },
+    {
+      "name": " Computation: Finite and Infinite Machines (Automatic Computation) ",
+      "author": "Marvin Minsky",
+      "description": "Secure Multi-Party Computation (MPC) is one of the most powerful tools developed by modern cryptography: it facilitates collaboration among mutually distrusting parties by implementing a virtual trusted party. Despite the remarkable potential of such a tool, and decades of active research in the theoretical cryptography community, it remains a relatively inaccessible."
+    }
+  ]
+}
